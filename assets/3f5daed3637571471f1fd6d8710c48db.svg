@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="2779" viewBox="0 0 1280 2779">
+  <defs>
+    <clipPath id="clip-People_1">
+      <rect width="1280" height="2779"/>
+    </clipPath>
+  </defs>
+  <g id="People_1" data-name="People – 1" clip-path="url(#clip-People_1)">
+    <rect width="1280" height="2779" fill="#fff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1310" height="2840" transform="translate(0 -39)" fill="#4dcbd0"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1292" height="115" transform="translate(0 -19)" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1">
+      <text id="MIclass" transform="translate(29 60)" fill="#707070" font-size="29" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">MIclass</tspan></text>
+      <text id="Home" transform="translate(838 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Home</tspan></text>
+      <text id="Classes" transform="translate(1073 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Classes</tspan></text>
+      <text id="Assignments" transform="translate(922 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Assignments</tspan></text>
+      <text id="Settings" transform="translate(1175 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Settings</tspan></text>
+      <text id="Home-2" data-name="Home" transform="translate(838 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Home</tspan></text>
+      <text id="Classes-2" data-name="Classes" transform="translate(1073 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Classes</tspan></text>
+      <text id="Assignments-2" data-name="Assignments" transform="translate(922 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Assignments</tspan></text>
+      <text id="Settings-2" data-name="Settings" transform="translate(1175 59)" fill="#707070" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Settings</tspan></text>
+      <text id="MIclass-2" data-name="MIclass" transform="translate(29 60)" fill="#707070" font-size="29" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">MIclass</tspan></text>
+    </g>
+    <line id="Line_1" data-name="Line 1" x1="63" transform="translate(1080 66)" fill="none" stroke="#3eade8" stroke-linecap="round" stroke-width="5"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 -841)">
+      <g id="Path_1" data-name="Path 1" transform="translate(748 647)" fill="#fff">
+        <path d="M504,425h0Z" stroke="none"/>
+        <path d="M 0 425 L 504 425 L 0 425 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+    <text id="Halton_Waldorf_School_MIclass_" data-name="Halton Waldorf School [MIclass]" transform="translate(618 154)" fill="#f4e7e7" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-228.144" y="0">Halton Waldorf School [MIclass]</tspan></text>
+    <text id="Students:_Alexander_Nathan_Jasmine_Gisselle_Chloe_David_Zachariah_Emilia_Sahl_Iman_Kaitlyn_Emma_Devin_Issei_Alana_Marcus_Finn_Vidushi_Mark_Veronica_Teachers:_Miss_Hill" data-name="Students:
+Alexander
+Nathan
+Jasmine
+Gisselle
+Chloe
+David
+Zachariah
+Emilia
+Sahl
+Iman
+Kaitlyn
+Emma
+Devin
+Issei
+Alana
+Marcus
+Finn
+Vidushi
+Mark
+Veronica
+
+
+
+
+Teachers:
+Miss Hill" transform="translate(618 256)" fill="#f4e7e7" font-size="53" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-113.897" y="0">Students:</tspan><tspan x="-118.746" y="62">Alexander</tspan><tspan x="-85.41" y="124">Nathan</tspan><tspan x="-98.686" y="186">Jasmine</tspan><tspan x="-92.723" y="248">Gisselle</tspan><tspan x="-69.191" y="310">Chloe</tspan><tspan x="-67.734" y="372">David</tspan><tspan x="-117.289" y="434">Zachariah</tspan><tspan x="-70.675" y="496">Emilia</tspan><tspan x="-52.02" y="558">Sahl</tspan><tspan x="-58.433" y="620">Iman</tspan><tspan x="-80.004" y="682">Kaitlyn</tspan><tspan x="-75.631" y="744">Emma</tspan><tspan x="-66.754" y="806">Devin</tspan><tspan x="-53.477" y="868">Issei</tspan><tspan x="-66.25" y="930">Alana</tspan><tspan x="-87.874" y="992">Marcus</tspan><tspan x="-50.562" y="1054">Finn</tspan><tspan x="-85.913" y="1116">Vidushi</tspan><tspan x="-59.89" y="1178">Mark</tspan><tspan x="-101.601" y="1240">Veronica</tspan><tspan x="0" y="1302"></tspan><tspan x="0" y="1364"></tspan><tspan x="0" y="1426"></tspan><tspan x="0" y="1488"></tspan><tspan x="-113.367" y="1550">Teachers:</tspan><tspan x="-99.614" y="1612">Miss Hill</tspan></text>
+  </g>
+</svg>
