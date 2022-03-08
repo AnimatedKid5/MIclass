@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <clipPath id="clip-Chat">
+      <rect width="1280" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Chat" clip-path="url(#clip-Chat)">
+    <rect id="Rectangle_bottom" data-name="Rectangle bottom" width="1357" height="839" transform="translate(-47 -39)" fill="#225557"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1339" height="115" transform="translate(-47 -19)" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1">
+      <text id="MIclass" transform="translate(29 60)" fill="#f0e4e4" font-size="29" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">MIclass</tspan></text>
+      <text id="Home" transform="translate(838 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Home</tspan></text>
+      <text id="Classes" transform="translate(1073 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Classes</tspan></text>
+      <text id="Assignments" transform="translate(922 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Assignments</tspan></text>
+      <text id="Settings" transform="translate(1175 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Settings</tspan></text>
+      <text id="Home-2" data-name="Home" transform="translate(838 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Home</tspan></text>
+      <text id="Classes-2" data-name="Classes" transform="translate(1073 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Classes</tspan></text>
+      <text id="Assignments-2" data-name="Assignments" transform="translate(922 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Assignments</tspan></text>
+      <text id="Settings-2" data-name="Settings" transform="translate(1175 59)" fill="#f0e4e4" font-size="21" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Settings</tspan></text>
+      <text id="MIclass-2" data-name="MIclass" transform="translate(29 60)" fill="#f0e4e4" font-size="29" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">MIclass</tspan></text>
+    </g>
+    <line id="Line_1" data-name="Line 1" x1="76" transform="translate(1073 66)" fill="none" stroke="#3eade8" stroke-linecap="round" stroke-width="5"/>
+    <text id="Halton_Waldorf_School_Chat" data-name="Halton Waldorf School Chat" transform="translate(655 171)" fill="#f0e4e4" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-199.12" y="0">Halton Waldorf School Chat</tspan></text>
+    <g id="Text_Box" data-name="Text Box" transform="translate(69 667)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="1173" height="107" rx="33" fill="#fff"/>
+      <text id="Type_a_message_here" data-name="Type a message here" transform="translate(251 65)" fill="#f0e4e4" font-size="32" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-151.152" y="0">Type a message here</tspan></text>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="60" height="61" rx="11" transform="translate(21.5 21)" fill="#fff"/>
+      <line id="Line_3" data-name="Line 3" y2="41" transform="translate(51.5 31)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_4" data-name="Line 4" x2="17" y2="18" transform="translate(52 31)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_5" data-name="Line 5" x1="17" y2="18" transform="translate(34 31)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+    </g>
+    <g id="Text2" transform="translate(197 -231)">
+      <g id="Group_2" data-name="Group 2" transform="translate(-286 -633)">
+        <g id="Path_1" data-name="Path 1" transform="translate(748 647)" fill="#fff">
+          <path d="M504,425h0Z" stroke="none"/>
+          <path d="M 0 425 L 504 425 L 0 425 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Polygon_1" data-name="Polygon 1" transform="matrix(-0.105, -0.995, 0.995, -0.105, 909.312, 580)" fill="none">
+        <path d="M27.129,11.518a8,8,0,0,1,13.741,0L60.784,44.9A8,8,0,0,1,53.913,57H14.087A8,8,0,0,1,7.216,44.9Z" stroke="none"/>
+        <path d="M 33.9999885559082 12.61651229858398 C 33.48773574829102 12.61651229858398 32.21125030517578 12.75908660888672 31.42353820800781 14.07967376708984 L 11.51058578491211 47.46317672729492 C 10.70315170288086 48.81679916381836 11.21906280517578 50.02488708496094 11.47835159301758 50.48146057128906 C 11.73763656616211 50.93804931640625 12.5108757019043 52 14.0870361328125 52 L 53.91294860839844 52 C 55.48911285400391 52 56.26235198974609 50.93804931640625 56.52165222167969 50.48147583007812 C 56.78093719482422 50.02488708496094 57.29685211181641 48.81679916381836 56.48941040039062 47.46316146850586 L 36.57645034790039 14.07968902587891 C 35.78872680664062 12.75908660888672 34.51223754882812 12.61651229858398 33.9999885559082 12.61651229858398 M 33.99999237060547 7.61651611328125 C 36.65948104858398 7.61651611328125 39.3189697265625 8.917106628417969 40.87055206298828 11.51828765869141 L 60.78351211547852 44.90177536010742 C 63.96431350708008 50.23429870605469 60.12208557128906 57 53.91294860839844 57 L 14.0870361328125 57 C 7.877910614013672 57 4.035675048828125 50.23429870605469 7.216487884521484 44.90177536010742 L 27.12943649291992 11.51828765869141 C 28.6810188293457 8.917106628417969 31.34050750732422 7.61651611328125 33.99999237060547 7.61651611328125 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(746.204 439)" fill="none" stroke="#707070" stroke-width="5">
+        <rect width="217" height="114" rx="39" stroke="none"/>
+        <rect x="2.5" y="2.5" width="212" height="109" rx="36.5" fill="none"/>
+      </g>
+      <path id="Polygon_2" data-name="Polygon 2" d="M27.129,11.518a8,8,0,0,1,13.741,0L60.784,44.9A8,8,0,0,1,53.913,57H14.087A8,8,0,0,1,7.216,44.9Z" transform="matrix(-0.105, -0.995, 0.995, -0.105, 909.312, 580)" fill="#31c7db"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="212" height="114" rx="39" transform="translate(751.204 439)" fill="#31c7db"/>
+      <text id="Hey." transform="translate(857.204 515.5)" fill="#f0e4e4" font-size="51" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-50.056" y="0">Hey.</tspan></text>
+    </g>
+    <g id="Text1" transform="translate(113.704 -0.5)">
+      <g id="Polygon_3" data-name="Polygon 3" transform="matrix(-0.105, 0.995, -0.995, -0.105, 82.796, 422.873)" fill="none">
+        <path d="M27.129,11.518a8,8,0,0,1,13.741,0L60.784,44.9A8,8,0,0,1,53.913,57H14.087A8,8,0,0,1,7.216,44.9Z" stroke="none"/>
+        <path d="M 33.9999885559082 12.61651229858398 C 33.48773574829102 12.61651229858398 32.21125030517578 12.75908660888672 31.42353820800781 14.07967376708984 L 11.51058578491211 47.46317672729492 C 10.70315170288086 48.81679916381836 11.21906280517578 50.02488708496094 11.47835159301758 50.48146057128906 C 11.73763656616211 50.93804931640625 12.5108757019043 52 14.0870361328125 52 L 53.91294860839844 52 C 55.48911285400391 52 56.26235198974609 50.93804931640625 56.52165222167969 50.48147583007812 C 56.78093719482422 50.02488708496094 57.29685211181641 48.81679916381836 56.48941040039062 47.46316146850586 L 36.57645034790039 14.07968902587891 C 35.78872680664062 12.75908660888672 34.51223754882812 12.61651229858398 33.9999885559082 12.61651229858398 M 33.99999237060547 7.61651611328125 C 36.65948104858398 7.61651611328125 39.3189697265625 8.917106628417969 40.87055206298828 11.51828765869141 L 60.78351211547852 44.90177536010742 C 63.96431350708008 50.23429870605469 60.12208557128906 57 53.91294860839844 57 L 14.0870361328125 57 C 7.877910614013672 57 4.035675048828125 50.23429870605469 7.216487884521484 44.90177536010742 L 27.12943649291992 11.51828765869141 C 28.6810188293457 8.917106628417969 31.34050750732422 7.61651611328125 33.99999237060547 7.61651611328125 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(15.796 349.5)" fill="none" stroke="#707070" stroke-width="5">
+        <rect width="257" height="114" rx="39" stroke="none"/>
+        <rect x="2.5" y="2.5" width="252" height="109" rx="36.5" fill="none"/>
+      </g>
+      <path id="Polygon_4" data-name="Polygon 4" d="M27.129,11.518a8,8,0,0,1,13.741,0L60.784,44.9A8,8,0,0,1,53.913,57H14.087A8,8,0,0,1,7.216,44.9Z" transform="matrix(-0.105, 0.995, -0.995, -0.105, 82.796, 422.873)" fill="#31c7db"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="249" height="114" rx="39" transform="translate(15.796 349.5)" fill="#31c7db"/>
+      <text id="Hello" transform="translate(144 426)" fill="#f0e4e4" font-size="51" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-58.063" y="0">Hello</tspan></text>
+    </g>
+    <g id="Person1">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="45.5" cy="45.5" r="45.5" transform="translate(1172 224)" fill="#2aa4a8"/>
+      <path id="Path_3" data-name="Path 3" d="M82.073,72.572a45.506,45.506,0,0,1-72.224,1.2C8.642,48.489,84.928,48.55,82.073,72.572Z" transform="translate(1171.507 224)" fill="#50dcef"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="20.5" cy="20.5" r="20.5" transform="translate(1197 244)" fill="#50dcef"/>
+      <text id="You." transform="translate(1217 336)" fill="#f0e4e4" font-size="22" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-21.395" y="0">You.</tspan></text>
+    </g>
+    <g id="Person2">
+      <g id="Group_5" data-name="Group 5" transform="translate(-592 13)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="45.5" cy="45.5" r="45.5" transform="translate(616 353)" fill="#2aa4a8"/>
+        <path id="Path_2" data-name="Path 2" d="M82.073,72.572a45.506,45.506,0,0,1-72.224,1.2C8.642,48.489,84.928,48.55,82.073,72.572Z" transform="translate(615.507 353)" fill="#50dcef"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="20.5" cy="20.5" r="20.5" transform="translate(641 373)" fill="#50dcef"/>
+      </g>
+      <text id="Teacher" transform="translate(70 476)" fill="#f0e4e4" font-size="15" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-26.25" y="0">Teacher</tspan></text>
+    </g>
+  </g>
+</svg>
